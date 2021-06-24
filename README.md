@@ -6,7 +6,7 @@ Addestramento supervisionato di un modello di machine learning per predire il vi
 
 * [combats.partial.csv](https://github.com/mariocuomo/pokemon-challenge/blob/main/combats.partial.csv)<br>
 É il dataset (.csv) di partenza per l'apprendimento supervisionato.<br>
-É composto da triple **pokemon1 | pokemon2 | vincitore**.
+É composto da terne **pokemon1 | pokemon2 | vincitore**.
 
 * [preparazione.ipynb](https://github.com/mariocuomo/pokemon-challenge/blob/main/preparazione.ipynb)<br>
 É un Jupyter Notebook con l'obiettivo di caricare il dataset e splittarlo in due dataset (train.csv e test.csv) con un rapporto 5:1.
